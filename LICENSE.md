@@ -1,4 +1,4 @@
-# 
+# Nuevo 1Password plantillas para Mac OS | Instantáneo 1Password plantillas para PC Windows. Con sistema de complementos y protección contra amenazas de día cero — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
